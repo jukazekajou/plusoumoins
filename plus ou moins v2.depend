@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1554751866 source:c:\users\hieronimus\desktop\programmes c\plus ou moins v2\menudifficulte.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1554754117 source:c:\users\hieronimus\desktop\programmes c\plus ou moins v2\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1554759117 source:c:\users\hieronimus\desktop\programmes c\plus ou moins v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"jeu.h"
+	"menus.h"
+	<math.h>
+
+1554754315 c:\users\hieronimus\desktop\programmes c\plus ou moins v2\jeu.h
+
+1554754382 c:\users\hieronimus\desktop\programmes c\plus ou moins v2\menus.h
+
+1554754540 source:c:\users\hieronimus\desktop\programmes c\plus ou moins v2\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menus.h"
+
+1554770762 source:c:\users\hieronimus\desktop\programmes c\plus ou moins v3 pointeurs\main.c
+	<stdio.h>
+	<stdlib.h>
+	"jeu.h"
+	"menus.h"
+	<math.h>
+
+1554754315 c:\users\hieronimus\desktop\programmes c\plus ou moins v3 pointeurs\jeu.h
+
+1554770628 c:\users\hieronimus\desktop\programmes c\plus ou moins v3 pointeurs\menus.h
+
+1554771582 source:c:\users\hieronimus\desktop\programmes c\plus ou moins v3 pointeurs\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1554769125 source:c:\users\hieronimus\desktop\programmes c\plus ou moins v3 pointeurs\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menus.h"
+
